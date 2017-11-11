@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addaccount.xml",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\layout\\addaccount.xml"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\themgiaodich.xml",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\layout\\themgiaodich.xml"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\danhsachtaikhoan.xml",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\layout\\danhsachtaikhoan.xml"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timkiemgiaodich.xml",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\layout\\timkiemgiaodich.xml"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\danhsachgiaodichtaikhoan.xml",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\layout\\danhsachgiaodichtaikhoan.xml"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\giaodichtaikhoan.xml",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\layout\\giaodichtaikhoan.xml"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\danhsachgiaodich.xml",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\layout\\danhsachgiaodich.xml"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\taikhoan.xml",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\layout\\taikhoan.xml"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chitietgiaodich.xml",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\layout\\chitietgiaodich.xml"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\giaodich.xml",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\layout\\giaodich.xml"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capnhattaikhoan.xml",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\layout\\capnhattaikhoan.xml"
+    }
+]

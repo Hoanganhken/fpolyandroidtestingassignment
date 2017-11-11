@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.st.accounts"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/common" >
+        <activity
+            android:name="fpoly.quanlytaikhoannganhang.DanhSachTaiKhoan"
+            android:label="AppFPolyQLTK" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="fpoly.quanlytaikhoannganhang.ThemTaiKhoan"
+            android:label="Add New Account" />
+        <activity
+            android:name="fpoly.quanlytaikhoannganhang.ThemGiaoDich"
+            android:label="Add New Transaction" />
+        <activity
+            android:name="fpoly.quanlytaikhoannganhang.CapNhatTaiKhoan"
+            android:label="Account Details" />
+        <activity
+            android:name="fpoly.quanlytaikhoannganhang.DanhSachGiaoDichTaiKhoan"
+            android:label="Account Transactions" />
+        <activity
+            android:name="fpoly.quanlytaikhoannganhang.ChiTietGiaoDich"
+            android:label="Transaction Details" />
+        <activity
+            android:name="fpoly.quanlytaikhoannganhang.TimKiemGiaoDich"
+            android:label="Search Transactions" />
+        <activity
+            android:name="fpoly.quanlytaikhoannganhang.DanhSachGiaoDich"
+            android:label="Transactions" />
+        <activity
+            android:name="fpoly.quanlytaikhoannganhang.DanhSachGiaoDichGanDay"
+            android:label="Recent Transactions" />
+    </application>
+
+</manifest>

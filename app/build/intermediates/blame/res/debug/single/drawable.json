@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\datepicker.png",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\drawable\\datepicker.png"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_transaction.jpg",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\drawable\\ic_add_transaction.jpg"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_recent_transactions.jpg",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\drawable\\ic_recent_transactions.jpg"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cell.xml",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\drawable\\cell.xml"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_account.jpg",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\drawable\\ic_add_account.jpg"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_accounts.png",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\drawable\\ic_list_accounts.png"
+    },
+    {
+        "merged": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_transactions.jpg",
+        "source": "E:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\src\\main\\res\\drawable\\ic_search_transactions.jpg"
+    }
+]

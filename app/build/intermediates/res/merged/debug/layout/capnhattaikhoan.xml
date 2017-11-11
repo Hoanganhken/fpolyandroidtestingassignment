@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:gravity="center"
+                  android:orientation="horizontal">
+
+    <Button android:id="@+id/buttonUpdate" android:text="Update" 
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:onClick="updateAccount">
+    </Button>        
+    
+    <Button android:id="@+id/buttonDelete" android:text="Delete" 
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:onClick="deleteAccount">
+    </Button>
+     <Button android:id="@+id/buttonListTrans" android:text="Transactions" 
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:onClick="listAccountTransactions">
+    </Button>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Số tài khoản" />
+
+    <EditText
+        android:id="@+id/editAcno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <requestFocus />
+    </EditText>
+    
+
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tên tài khoản" />
+    
+    <EditText
+        android:id="@+id/editHolders"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </EditText>
+    
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tên ngân hàng " />
+
+    <EditText
+        android:id="@+id/editBankName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </EditText>
+  
+    
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Số dự hiện tại" />
+
+    <EditText
+        android:id="@+id/editBalance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </EditText>
+   
+</LinearLayout>
+</ScrollView>

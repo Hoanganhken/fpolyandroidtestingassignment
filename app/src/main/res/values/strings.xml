@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thống kê tài khoản</string>
+    <string name="accountsprompt">Chọn tài khoản</string>
+
+</resources>

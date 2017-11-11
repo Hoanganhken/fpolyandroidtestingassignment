@@ -1,0 +1,7 @@
+#Sat Nov 11 09:37:05 ICT 2017
+base.0=E\:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c450e230eddbf6ffe165eaa84597fa722257d8be
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2017f50df29aff72c05bc310a7ec54d795715c0b\\classes.dex
+base.1=E\:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2017f50df29aff72c05bc310a7ec54d795715c0b
+file.0=E\:\\KiemthuAndroid\\fpolyandroidtestingassignment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c450e230eddbf6ffe165eaa84597fa722257d8be\\classes.dex

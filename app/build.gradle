@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 20
+    aaptOptions.cruncherEnabled = false
+    aaptOptions.useNewCruncher = false
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        applicationId "com.st.accounts"
+        minSdkVersion 8
+        targetSdkVersion 8
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+
+dependencies {
+// Robolectric
+    testCompile "org.robolectric:robolectric:3.3.2"
+}
